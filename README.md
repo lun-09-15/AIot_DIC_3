@@ -10,6 +10,8 @@ Energy Detective 是一個家庭用電分析與節能決策的 Domain AI Agent �
 
 ## 專案文件
 
+正式提案的繳交儲存庫為 [AIoT_Final_Proj](https://github.com/lun-09-15/AIoT_Final_Proj)，內含 [正式提案 Word](https://github.com/lun-09-15/AIoT_Final_Proj/blob/main/deliverables/Energy_Detective_Proposal.docx) 與 [正式提案 PPT](https://github.com/lun-09-15/AIoT_Final_Proj/blob/main/deliverables/Energy_Detective_Proposal.pptx)。本庫收錄 DIC3 提案整理與設計摘要。
+
 | 文件 | 內容 |
 | --- | --- |
 | [DESIGN.md](./DESIGN.md) | 八大模組、系統架構、流程圖、虛擬碼與評估方式 |
